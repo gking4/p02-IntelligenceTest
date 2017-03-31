@@ -1,0 +1,21 @@
+
+div.nav-tab {
+	background-color: gainsboro;
+	border-style: solid;
+}
+
+a:link.navigation {
+	text-decoration: none;
+	color: navy;
+}
+
+div:hover.nav-tab {
+	color: darkgray;
+}
+
+span.hidden-message{
+  opacity: 0.0;
+}
+span.shown-message{
+  opacity: 1.0;
+}
